@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href = "https://green-tea.itch.io/"> Check out my games ! </a> 
+<a href = "https://steven-j-lee.github.io/"> Check out my website ! </a> 
